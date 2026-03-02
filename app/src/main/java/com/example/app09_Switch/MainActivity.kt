@@ -80,6 +80,7 @@ fun MyExample(modifier: Modifier = Modifier) {
         Spacer(modifier = Modifier.padding(10.dp))
         MyRadioButton3()
         Spacer(modifier = Modifier.padding(10.dp))
+        Text("--------")
     }
 }
 
